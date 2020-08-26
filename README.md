@@ -1,4 +1,4 @@
-## JavaScript  BootCamp  Project 2: Calculator.
+# JavaScript  BootCamp  Project 2: Calculator.
 
 Your final app should work as :https://luxtechcalproject.netlify.app/ 
 
